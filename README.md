@@ -1,2 +1,1 @@
-# LocalHero
 # socialHero
